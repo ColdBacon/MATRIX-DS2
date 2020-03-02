@@ -1,2 +1,1 @@
-# MATRIX-DS2
-Car price prediction
+# Car price prediction
